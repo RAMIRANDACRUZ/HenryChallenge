@@ -12,7 +12,7 @@ function minMax(arr) {
   
     return [min, max];
   }
-  const numeros = [1, 2, 3, 4, 5,  6, 7, 8, 9, 10];
+  const numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
   const resultado = minMax(numeros);
   console.log(resultado);
 
